@@ -1,4 +1,4 @@
-ipywidgets==7.7.1
+ipywidgets==8.0.3
 matplotlib
 numpy
 pandas
